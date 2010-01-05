@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Last-Translator: Frank Rabi <frank.rabi@meinberg.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "go up"
+msgstr "aufwärts"
+
+# zone names
+msgid "Africa"
+msgstr "Afrika"
+
+msgid "Asia"
+msgstr "Asien"
+
+msgid "North America"
+msgstr "Nordamerika"
+
+msgid "South America"
+msgstr "Südamerika"
+
+msgid "Global"
+msgstr "Global"
+
+msgid "All Pool Servers"
+msgstr "Alle Pool Server"
+
+# navigation
+msgid "Translations"
+msgstr "Übersetzungen"
+
+# mailinglists.html
+msgid  "NTP Pool mailing lists"
+msgstr "NTP Pool Mailing Listen"
+
+msgid  "subscribe"
+msgstr "anmelden"
+
+msgid  "archive"
+msgstr "Archiv"
+
+msgid  "Announcement list"
+msgstr "Ankündigungs Liste"
+
+msgid  "Discussion list"
+msgstr "Diskussions Liste"
+
+msgid  "Development list"
+msgstr "Entwicklungs Liste"
+
+msgid  "announcement_list_description"
+msgstr "Ankündigungen von NTP Pool Neuigkeiten, sehr wenig Traffic. Alle Server Betreiber sollten sich bei in der Ankündigungs Liste anmelden."
+
+msgid  "discussion_list_description"
+msgstr "Server Betreiber (und Bneutzer) die mehr über das Pool Projekt erfahren wollen können sich bei der Diskussions Liste anmelden.<br/> Selbstverständlich sollten generelle Diskussionen über NTP auf der %1 Usenet Newsgroup geführt werden (auch unter <a href=\"%2\">Google Groups</a>)."
+
+msgid  "development_list_description"
+msgstr "Mehr technische (und idealerweise immer pragmatische) Diskussionen über die aktuelle Entwicklung von <a href=\"%1\">NTP Pool code</a> und <a href=\"%2\">pgeodns</a> finden auf der timekeepers-dev Liste statt."
+
+
+# tpl/server.html
+msgid  "Back to the front page"
+msgstr "Zurück zur Startseite"
+
+msgid  "Find"
+msgstr "Suchen"
+
+msgid  "Stats for %1"
+msgstr "Statistiken für %1"
+
+msgid  "Not active in the pool, monitoring only"
+msgstr "Nicht im Pool aktiv, nur Monitoring"
+
+msgid  "Zones:"
+msgstr "Zonen:"
+
+msgid  "This server is <span class="deletion">scheduled for deletion</span> on %1."
+msgstr "Dieser Server ist <span class="deletion">zum Löschen vorgesehen</span> auf %1."
+
+msgid  "Current score: %1 (only servers with a score higher than 5 are used in the pool)"
+msgstr "Aktueller Score: %1 (nur Server mit einenm Score grösser 5 werden im Pool benutzt)"
+
+msgid  "What do the graphs mean?"
+msgstr "Was bedeuten die Grafiken?"
+
+msgid  "CSV log"
+msgstr "CSV Log"
+
+
